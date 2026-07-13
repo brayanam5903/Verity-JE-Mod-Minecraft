@@ -1,3 +1,5 @@
+# Verity JE Mod Minecraft
+
 
 **Verity JE Mod** is a high-quality Minecraft Java Edition mod that brings enhanced realism, improved visuals, and useful quality-of-life features to the game while preserving the original Minecraft feel.
 
